@@ -162,7 +162,7 @@
     position: relative;  /*định nghĩa thẻ cha*/
     margin-top: 46px;   /* di chuyển slider xuống 46px*/
    padding-top: 50%;   /*chỉnh chiều dọc của slider bằng 1/2 chiều ngang*/
-   background: url('/img/slider/slider1.jpg') top center / cover no-repeat;  /*link ảnh và định dạng ảnh */
+   background: url('../img/slider/slider1.jpg') top center / cover no-repeat;  /*link ảnh và định dạng ảnh */
   }
 
   #slider .text-content{
